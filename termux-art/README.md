@@ -1,10 +1,5 @@
-# راهنمای پروژه TERMUX-ART
+> **راهنما:** برای نصب و اجرای هر پروژه، وارد پوشه مربوط به آن شوید و با دستور `cat README.md` راهنمای قدم‌به‌قدم آن را مشاهده و اجرا کنید.
 
-این ابزار برای تفکیک لایه‌های رنگی تصویر استفاده می‌شود.
+# فهرست پروژه‌ها
 
-پیش‌نیازها:
-pkg update && pkg install -y python git termux-api
-pip install pillow numpy
-
-نحوه اجرا:
-python TERMUX-ART/dto-interactive.py
+* **[TERMUX-ART](./termux-art/)**: ابزار تفکیک، ادغام و مدیریت لایه‌های رنگی تصویر بر اساس الگوریتم Cut Median.
