@@ -1,0 +1,6 @@
+# خروجی‌های تست و اجرا — هرگز کامیت نشوند
+*.tif
+outputs/
+*_layer.png
+*_mask.png
+__pycache__/
