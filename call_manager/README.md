@@ -2,4 +2,5 @@
 
 ## مراحل اجرا
 
-1. `python call_manager.py`
+1. `cl`
+2. `python call_manager.py`
